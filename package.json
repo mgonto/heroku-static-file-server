@@ -1,0 +1,28 @@
+{
+  "name": "static-file-server",
+  "version": "0.0.0",
+  "description": "Serves static files. To be used in Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgonto/heroku-static-file-server"
+  },
+  "keywords": [
+    "static",
+    "file",
+    "serve",
+    "heroku"
+  ],
+  "author": "Martin Gontovnikas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgonto/heroku-static-file-server/issues"
+  },
+  "homepage": "https://github.com/mgonto/heroku-static-file-server",
+  "dependencies": {
+    "serve": "^1.4.0"
+  }
+}
